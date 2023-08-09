@@ -1,0 +1,38 @@
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.exe
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.deps.json
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.runtimeconfig.json
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.dll
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.pdb
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.Views.dll
+C:\Users\Hp\source\repos\CI CD\CI CD\bin\Debug\netcoreapp3.1\CI CD.Views.pdb
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.RazorAssemblyInfo.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.RazorAssemblyInfo.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\staticwebassets\CI CD.StaticWebAssets.Manifest.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\staticwebassets\CI CD.StaticWebAssets.xml
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\scopedcss\bundle\CI CD.styles.css
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.TagHelpers.input.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.TagHelpers.output.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.RazorCoreGenerate.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.RazorTargetAssemblyInfo.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.RazorTargetAssemblyInfo.cs
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.Views.pdb
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.dll
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.pdb
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CI CD\CI CD\obj\Debug\netcoreapp3.1\CI CD.csproj.CopyComplete
